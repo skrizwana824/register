@@ -1,0 +1,161 @@
+/* src/styles/Auth.css */
+.auth-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .auth-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .auth-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .auth-container input {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .auth-container button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .auth-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .auth-container p {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .auth-container a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .auth-container a:hover {
+    text-decoration: underline;
+  }
+  /* src/Styles/Auth.css */
+.auth-container label.file-upload-label {
+    display: block;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .auth-container input[type="file"] {
+    margin: 10px 0;
+    padding: 5px;
+  }
+  /* src/Styles/Auth.css */
+.auth-container .input-error {
+    border: 1px solid red;
+  }
+  
+  .auth-container .error-message {
+    color: red;
+    font-size: 12px;
+    margin: 5px 0;
+  }
+  
+  .auth-container label.file-upload-label {
+    display: block;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .auth-container input[type="file"] {
+    margin: 10px 0;
+    padding: 5px;
+  }
+  /* src/Styles/Auth.css */
+.auth-container .input-error {
+    border: 1px solid red;
+  }
+  
+  .auth-container .error-message {
+    color: red;
+    font-size: 12px;
+    margin: 5px 0;
+  }
+  
+  .auth-container input[type="text"], 
+  .auth-container input[type="email"], 
+  .auth-container input[type="password"] {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .auth-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .auth-container button:hover {
+    background-color: #0056b3;
+  }
+  /* src/Styles/Auth.css */
+.auth-container .input-error {
+    border: 1px solid red;
+  }
+  
+  .auth-container .error-message {
+    color: red;
+    font-size: 12px;
+    margin: 5px 0;
+  }
+  
+  .auth-container input[type="text"], 
+  .auth-container input[type="email"], 
+  .auth-container input[type="password"] {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  
+  .auth-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .auth-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  
